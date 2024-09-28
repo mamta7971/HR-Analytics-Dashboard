@@ -1,7 +1,7 @@
 # HR-Analytics-Dashboard
 
 Overview
-This repository contains an HR analytics dashboard developed using Power BI. This aimed to transform human resources management by leveraging data analytics to optimize workforce performance, employee engagement, and talent management strategies. The problem statement revolved around the need to enhance HR decision-making processes, understand employee dynamics, and improve overall organizational performance.
+This repository contains an HR analytics dashboard developed using Power BI and Tableau. This aimed to transform human resources management by leveraging data analytics to optimize workforce performance, employee engagement, and talent management strategies. The problem statement revolved around the need to enhance HR decision-making processes, understand employee dynamics, and improve overall organizational performance.
 
 Screenshots
 ![Main Page](https://github.com/user-attachments/assets/f978a89e-9803-481c-a6fa-59fef1a3573a)
